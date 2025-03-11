@@ -10,4 +10,5 @@ int main(){
     }
     num2=num;
     printf("Numbers");
+    printf("%d",n);
 }
