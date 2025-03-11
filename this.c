@@ -9,4 +9,5 @@ int main(){
         n++;
     }
     num2=num;
+    printf("Numbers");
 }
