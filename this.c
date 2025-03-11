@@ -8,4 +8,5 @@ int main(){
         num2/=10;
         n++;
     }
+    num2=num;
 }
