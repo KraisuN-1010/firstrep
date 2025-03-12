@@ -11,4 +11,5 @@ int main(){
     num2=num;
     printf("Numbers");
     printf("%d",n);
+    printf("This is a good code");
 }
