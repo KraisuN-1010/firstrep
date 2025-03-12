@@ -12,4 +12,6 @@ int main(){
     printf("Numbers");
     printf("%d",n);
     printf("This is a good code");
+    printf("This is an even better code");
+    
 }
